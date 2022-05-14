@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "//bipurna.github.com/testimonials-grid-section-main/static/css/main.0ef55361.css",
-    "main.js": "//bipurna.github.com/testimonials-grid-section-main/static/js/main.10024213.js",
-    "index.html": "//bipurna.github.com/testimonials-grid-section-main/index.html",
-    "static/media/bg-pattern-quotation.svg": "//bipurna.github.com/testimonials-grid-section-main/static/media/bg-pattern-quotation.6b460e30439432820da6.svg",
-    "main.0ef55361.css.map": "//bipurna.github.com/testimonials-grid-section-main/static/css/main.0ef55361.css.map",
-    "main.10024213.js.map": "//bipurna.github.com/testimonials-grid-section-main/static/js/main.10024213.js.map"
+    "main.css": "/testimonials-grid-section-main/static/css/main.ba12c9cb.css",
+    "main.js": "/testimonials-grid-section-main/static/js/main.10024213.js",
+    "index.html": "/testimonials-grid-section-main/index.html",
+    "static/media/bg-pattern-quotation.svg": "/testimonials-grid-section-main/static/media/bg-pattern-quotation.6b460e30439432820da6.svg",
+    "main.ba12c9cb.css.map": "/testimonials-grid-section-main/static/css/main.ba12c9cb.css.map",
+    "main.10024213.js.map": "/testimonials-grid-section-main/static/js/main.10024213.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ef55361.css",
+    "static/css/main.ba12c9cb.css",
     "static/js/main.10024213.js"
   ]
 }
