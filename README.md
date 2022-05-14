@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./src/images/phone-design.png =375)
+![](./src/images/phone-design.png =375x)
 ![](./src/images/web.png)
 
 
