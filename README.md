@@ -27,7 +27,7 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-<img src="./src/images/phone-design.png" width="375"/>
+![](./src/images/phone-design.png)
 ![](./src/images/web.png)
 
 
