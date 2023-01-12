@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/bipurna/testimonials-grid-section-main.git)
-- Live Site URL: [testimonials-grid-section-main](https://bipurna.github.com/testimonials-grid-section-main)
+- Live Site URL: [testimonials-grid-section-main](https://bipurna.github.io/testimonials-grid-section-main/)
 
 ## My process
 
